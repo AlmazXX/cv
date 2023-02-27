@@ -64,6 +64,7 @@ _Skills used:_ **English**, **Trello**, **Chrome Developer Tools**, **Technical 
 * Skilled in JavaScript problem-solving using DOM, Browser APIs, and third-party libraries like jQuery and Typescript
 * Experienced in building SPAs and reusable components with React and its associated libraries such as Redux, React Router, Axios, and others in the React ecosystem
 * Proficient in data structures and algorithm development
+* Familiar with database modeling and design principles, and able to create efficient MySQL and MongoDB database schemas for Node.js applications.
 * Knowledgeable in software development best practices
 * Demonstrated ability to quickly learn and comprehend third-party code
 * Excellent knowledge of English at Advanced level
