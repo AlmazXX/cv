@@ -4,24 +4,21 @@ _Front-end developer・JavaScript・TypeScript・React・Redux・Node.js・Nest�
 
 [Email](mailto:choiubekov.almaz@gmail.com)・[LinkedIn](https://www.linkedin.com/in/almazbek-choiubekov-2a218a134/)・[GitHub](https://github.com/AlmazXX)・[Telegram](https://t.me/almaz924)・[Phone](tel:996778226641)
 
+## Skills
 
-## Pet projects
+* HTML, CSS, SASS, Bootstrap, Material-UI
+* JavaScript, TypeScript, JQuery
+* React, Redux, React Router, Axios, others in the React ecosystem
+* Node.js, TS Node, Express
+* MySQL, MongoDB, Firebase
+* English,Russian, Kyrgyz
 
-[**Link Shortener**](https://github.com/AlmazXX/Link-shortener) - built to shorten long URLs into shorter and more manageable link. The aim is understanding of CRUD requests processing on Express
+## Education
 
-_Technologies used:_ **Typescript**, **Node.js**, **TS Node**, **Express**, **MongoDB**, **Mongoose**, **React**, **Redux**, **Axios**, **Material UI**
-
-[**Chat**](https://github.com/AlmazXX/Chat) - a web application for real-time chat between users. The aim of the project was to implement a self-written database for storing messages.
-
-_Technologies used:_ **Typescript**, **Node.js**, **TS Node**, **Express**, **React**, **Redux**, **Axios**, **Material UI** 
-
-[**Finance Tracker**](https://almazxx.github.io/finance-tracker/) - an app for managing incomes and expenses. It allows to add income & expense categories and transactions depending on that categeries. The aim of the project is understanding of working with Redux Thunk
-
-_Technologies used:_ **Typescript**, **React**, **Redux**, **React router DOM**, **Firebase**, **Bootstrap**
-
-[**Plovo**](https://almazxx.github.io/plovo/) - an application for food orders. It will have user&admin level accesses so that admin can manage in-stock menu and orders fulfillment, and user can make add products to the cart and make orders. The aim of the project is understanding of Redux global store
-
-_Technologies used:_ **Typescript**, **React**, **Redux**, **React router DOM**, **Firebase**, **Bootstrap**
+* [**Attractor School**](https://attractor-school.com/) (June 2022 – Current time)
+_Javascript (React + Node.js)_
+* [**International Alatoo University**](http://alatoo.edu.kg/) (Sep 2016 – May 2020)
+_Bachelor's degree, International Relations and Affairs_
 
 ## Experience
 
@@ -58,21 +55,21 @@ _Dec 2020 – Oct 2021_
 
 _Skills used:_ **English**, **Trello**, **Chrome Developer Tools**, **Technical Support**, **Customer Support**
 
-## Skills
 
-* Development of responsive HTML/CSS layouts utilizing Gulp builder and SASS
-* Skilled in JavaScript problem-solving using DOM, Browser APIs, and third-party libraries like jQuery and Typescript
-* Experienced in building SPAs and reusable components with React and its associated libraries such as Redux, React Router, Axios, and others in the React ecosystem
-* Proficient in data structures and algorithm development
-* Familiar with database modeling and design principles, and able to create efficient MySQL and MongoDB database schemas for Node.js applications.
-* Knowledgeable in software development best practices
-* Demonstrated ability to quickly learn and comprehend third-party code
-* Excellent knowledge of English at Advanced level
-* Native speaker on Kyrgyz and Russian
+## Pet projects
 
-## Education
+[**_Link Shortener_**](https://github.com/AlmazXX/Link-shortener) - built to shorten long URLs into shorter and more manageable link. The aim is understanding of CRUD requests processing on Express
 
-* [**Attractor School**](https://attractor-school.com/) (June 2022 – Current time)
-_Javascript (React + Node.js)_
-* [**International Alatoo University**](http://alatoo.edu.kg/) (Sep 2016 – May 2020)
-_Bachelor's degree, International Relations and Affairs_
+_Technologies used:_ **Typescript**, **Node.js**, **TS Node**, **Express**, **MongoDB**, **Mongoose**, **React**, **Redux**, **Axios**, **Material UI**
+
+[**_Chat_**](https://github.com/AlmazXX/Chat) - a web application for real-time chat between users. The aim of the project was to implement a self-written database for storing messages.
+
+_Technologies used:_ **Typescript**, **Node.js**, **TS Node**, **Express**, **React**, **Redux**, **Axios**, **Material UI** 
+
+[**_Finance Tracker_**](https://almazxx.github.io/finance-tracker/) - an app for managing incomes and expenses. It allows to add income & expense categories and transactions depending on that categeries. The aim of the project is understanding of working with Redux Thunk
+
+_Technologies used:_ **Typescript**, **React**, **Redux**, **React router DOM**, **Firebase**, **Bootstrap**
+
+[**_Plovo_**](https://almazxx.github.io/plovo/) - an application for food orders. It will have user&admin level accesses so that admin can manage in-stock menu and orders fulfillment, and user can make add products to the cart and make orders. The aim of the project is understanding of Redux global store
+
+_Technologies used:_ **Typescript**, **React**, **Redux**, **React router DOM**, **Firebase**, **Bootstrap**
