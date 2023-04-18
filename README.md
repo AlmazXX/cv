@@ -58,18 +58,18 @@ _Skills used:_ **English**, **Trello**, **Chrome Developer Tools**, **Technical 
 
 ## Pet projects
 
-[**_Link Shortener_**](https://github.com/AlmazXX/Link-shortener) - built to shorten long URLs into shorter and more manageable link. The aim is understanding of CRUD requests processing on Express
+[Link Shortener](https://github.com/AlmazXX/Link-shortener) - built to shorten long URLs into shorter and more manageable link. The aim is understanding of CRUD requests processing on Express
 
 _Technologies used:_ **Typescript**, **Node.js**, **TS Node**, **Express**, **MongoDB**, **Mongoose**, **React**, **Redux**, **Axios**, **Material UI**
 
-[**_Chat_**](https://github.com/AlmazXX/Chat) - a web application for real-time chat between users. The aim of the project was to implement a self-written database for storing messages.
+[Chat](https://github.com/AlmazXX/Chat) - a web application for real-time chat between users. The aim of the project was to implement a self-written database for storing messages.
 
 _Technologies used:_ **Typescript**, **Node.js**, **TS Node**, **Express**, **React**, **Redux**, **Axios**, **Material UI** 
 
-[**_Finance Tracker_**](https://almazxx.github.io/finance-tracker/) - an app for managing incomes and expenses. It allows to add income & expense categories and transactions depending on that categeries. The aim of the project is understanding of working with Redux Thunk
+[Finance Tracker](https://almazxx.github.io/finance-tracker/) - an app for managing incomes and expenses. It allows to add income & expense categories and transactions depending on that categeries. The aim of the project is understanding of working with Redux Thunk
 
 _Technologies used:_ **Typescript**, **React**, **Redux**, **React router DOM**, **Firebase**, **Bootstrap**
 
-[**_Plovo_**](https://almazxx.github.io/plovo/) - an application for food orders. It will have user&admin level accesses so that admin can manage in-stock menu and orders fulfillment, and user can make add products to the cart and make orders. The aim of the project is understanding of Redux global store
+[Plovo](https://almazxx.github.io/plovo/) - an application for food orders. It will have user&admin level accesses so that admin can manage in-stock menu and orders fulfillment, and user can make add products to the cart and make orders. The aim of the project is understanding of Redux global store
 
 _Technologies used:_ **Typescript**, **React**, **Redux**, **React router DOM**, **Firebase**, **Bootstrap**
