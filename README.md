@@ -11,7 +11,7 @@ _Front-end developer・JavaScript・TypeScript・React・Redux・Node.js・Nest�
 * React, Redux, React Router, Axios, others in the React ecosystem
 * Node.js, TS Node, Express
 * MySQL, MongoDB, Firebase
-* English,Russian, Kyrgyz
+* English, Russian, Kyrgyz
 
 ## Education
 
@@ -57,6 +57,10 @@ _Skills used:_ **English**, **Trello**, **Chrome Developer Tools**, **Technical 
 
 
 ## Pet projects
+
+[Canvas](https://github.com/AlmazXX/Canvas) - a web application that allows multiple users to collaborate and draw on a shared canvas in real-time. The aim of the project is understanding of WebSockets.
+
+_Technologies used:_ **Typescript**, **Node.js**, **TS Node**, **Express**, **Express-ws**,**React**, **Material UI** 
 
 [Link Shortener](https://github.com/AlmazXX/Link-shortener) - built to shorten long URLs into shorter and more manageable link. The aim is understanding of CRUD requests processing on Express
 
