@@ -2,13 +2,13 @@
 
 _Front-end developer・JavaScript・TypeScript・React・Redux・Node.js・Nest・Express_
 
-[Email](mailto:choiubekov.almaz@gmail.com)・[LinkedIn](https://www.linkedin.com/in/almazbek-choiubekov-2a218a134/)・[GitHub](https://github.com/AlmazXX)・[Telegram](https://t.me/almaz924)・[Phone](tel:996778226641)
+[Email](mailto:choiubekov.almaz@gmail.com)・[LinkedIn](https://www.linkedin.com/in/almazbek-choiubekov-2a218a134/)・[GitHub](https://github.com/AlmazXX)・[Telegram](https://t.me/almaz924)・[Phone](tel:996778226641):0778226641
 
 ## Skills
 
 * HTML, CSS, SASS, Bootstrap, Material-UI
 * JavaScript, TypeScript, JQuery
-* React, Redux, React Router, Axios, others in the React ecosystem
+* Next.js, React, Redux, React Router, Axios, others in the React ecosystem
 * Node.js, TS Node, Express
 * MySQL, MongoDB, Firebase
 * English, Russian, Kyrgyz
@@ -34,8 +34,9 @@ _Oct 2021 – Current time_
 * Searching and testing application bugs;
 * Bug reporting and escalation of priority bugs;
 * Teaching and coaching new team members;
+* Making calls with customers to give tech consultation about Growave app;
 * Communication with members of all teams and monitoring of current bugs’ resolutions;
-* Conducting webinars on topics related to with of Growave app, Shopify and Shopify apps for Support and Q&A teams;
+* Conducting webinars on topics related to Growave app, Shopify and Shopify apps for Support and Q&A teams;
 _Technologies used:_ **MySQL**, **jQuery**, **JavaScript**, **HTML**, **CSS**, **REST API**
 
 _Skills used:_ **English**, **Jira**, **Trello**, **Chrome Developer Tools**, **Technical Support**, **Customer Support**
@@ -55,6 +56,12 @@ _Dec 2020 – Oct 2021_
 
 _Skills used:_ **English**, **Trello**, **Chrome Developer Tools**, **Technical Support**, **Customer Support**
 
+## Personal qualities
+
+* I can effectively convey ideas, actively listen to others, and adapt my communication style to ensure clear and meaningful exchanges.
+* Always try automating or learn less effort ways to fulfill routine work to focus on priority task.
+* I prefer planning steps before starting a task.
+* When meeting a challenge, I try understanding the root of an issue to make sure I never meet it again.
 
 ## Pet projects
 
