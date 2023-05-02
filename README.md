@@ -2,7 +2,7 @@
 
 _Front-end developer・JavaScript・TypeScript・React・Redux・Node.js・Nest・Express_
 
-[Email](mailto:choiubekov.almaz@gmail.com)・[LinkedIn](https://www.linkedin.com/in/almazbek-choiubekov-2a218a134/)・[GitHub](https://github.com/AlmazXX)・[Telegram](https://t.me/almaz924)・[Phone](tel:996778226641):0778226641
+[Email](mailto:choiubekov.almaz@gmail.com): choiubekov.almaz@gmail.com・[LinkedIn](https://www.linkedin.com/in/almazbek-choiubekov-2a218a134/)・[GitHub](https://github.com/AlmazXX)・[Telegram](https://t.me/almaz924)・[Phone](tel:996778226641): 0778226641
 
 ## Skills
 
