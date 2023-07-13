@@ -1,6 +1,6 @@
 # Almazbek Choiubekov
 
-_Front-end developer・JavaScript・TypeScript・React・Redux・Node.js・Nest・Express_
+_Front-end developer・JavaScript・TypeScript・React・Redux・Node.js・Express・Nest_
 
 [Email](mailto:choiubekov.almaz@gmail.com): choiubekov.almaz@gmail.com・[LinkedIn](https://www.linkedin.com/in/almazbek-choiubekov-2a218a134/)・[GitHub](https://github.com/AlmazXX)・[Telegram](https://t.me/almaz924)・[Phone](tel:996778226641): 0778226641
 
@@ -15,7 +15,7 @@ _Front-end developer・JavaScript・TypeScript・React・Redux・Node.js・Nest�
 
 ## Education
 
-* [**Attractor School**](https://attractor-school.com/) (June 2022 – Current time)
+* [**Attractor School**](https://attractor-school.com/) (June 2022 – June 2023)
 _Javascript (React + Node.js)_
 * [**International Alatoo University**](http://alatoo.edu.kg/) (Sep 2016 – May 2020)
 _Bachelor's degree, International Relations and Affairs_
@@ -37,8 +37,8 @@ _Oct 2021 – Current time_
 * Making calls with customers to give tech consultation about Growave app;
 * Communication with members of all teams and monitoring of current bugs’ resolutions;
 * Conducting webinars on topics related to Growave app, Shopify and Shopify apps for Support and Q&A teams;
-_Technologies used:_ **MySQL**, **jQuery**, **JavaScript**, **HTML**, **CSS**, **REST API**
 
+_Technologies used:_ **MySQL**, **jQuery**, **JavaScript**, **HTML**, **CSS**, **REST API**
 _Skills used:_ **English**, **Jira**, **Trello**, **Chrome Developer Tools**, **Technical Support**, **Customer Support**
 
 **Customer Support Specialist** – [Growave](https://www.growave.io/), Bishkek
