@@ -38,7 +38,7 @@ _Oct 2021 – Current time_
 * Communication with members of all teams and monitoring of current bugs’ resolutions;
 * Conducting webinars on topics related to Growave app, Shopify and Shopify apps for Support and Q&A teams;
 
-_Technologies used:_ **MySQL**, **jQuery**, **JavaScript**, **HTML**, **CSS**, **REST API**
+_Technologies used:_ **MySQL**, **jQuery**, **JavaScript**, **HTML**, **CSS**, **REST API**  
 _Skills used:_ **English**, **Jira**, **Trello**, **Chrome Developer Tools**, **Technical Support**, **Customer Support**
 
 **Customer Support Specialist** – [Growave](https://www.growave.io/), Bishkek
